@@ -23,5 +23,5 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SlyyCode&" alt="SlyyCode" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SlyyCode&theme=dark" alt="SlyyCode" />
 </p>
