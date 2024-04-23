@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VoxFiveM
+- 👋 Hi, I’m @SlyyCode
 - 🌱 I’m currently learning development
 - 💞️ I’m looking to collaborate on FiveM
-- 📫 How to reach me : voxx@blaze.holdings
+- 📫 How to reach me : contact@slyy.fr
