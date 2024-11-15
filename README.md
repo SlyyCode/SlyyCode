@@ -2,8 +2,6 @@
 <h3 align="center">I'm mainly a Backend Developer !</h3>
 
 
-- 👨‍💻 My current project is available at [https://modern5m.com](https://modern5m.com).<br>
-- 📝 I am the developer for [@Modern5M](https://github.com/Modern5M).<br>
 - 📫 You can reach me at **contact@slyy.fr**.<br>
 - 💞️ I’m looking to collaborate on FiveM
 - ⚡ Fun fact **I started development during lockdown**.<br>
